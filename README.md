@@ -1,1 +1,1 @@
-## Sample-Project-Git-Workflow
+# Sample-Project-Git-Workflow
